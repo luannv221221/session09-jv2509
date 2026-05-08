@@ -1,6 +1,6 @@
 package com.ra.config.exception;
 
-import com.ra.dto.department.ResponseWrapper;
+import com.ra.dto.ResponseWrapper;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

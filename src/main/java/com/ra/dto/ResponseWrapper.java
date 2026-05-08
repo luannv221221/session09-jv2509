@@ -1,9 +1,7 @@
-package com.ra.dto.department;
+package com.ra.dto;
 
 import lombok.*;
-import org.springframework.http.ResponseEntity;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 @AllArgsConstructor

@@ -1,9 +1,8 @@
 package com.ra.controller;
 
-import com.ra.dto.department.ResponseWrapper;
+import com.ra.dto.ResponseWrapper;
 import com.ra.dto.department.request.DepartmentRequestDTO;
 import com.ra.dto.department.response.DepartmentResponseDTO;
-import com.ra.entity.Department;
 import com.ra.service.DepartmentService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
